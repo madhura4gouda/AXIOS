@@ -18,7 +18,7 @@ function Featch() {
                     <tr>
                         <th>ID</th>
                         <th> title</th>
-                        <th>body</th>
+                         <th>body</th>
                         {/* <th> email</th> */}
                     </tr>
                 </thead>
