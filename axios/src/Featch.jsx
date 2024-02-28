@@ -14,7 +14,7 @@ function Featch() {
         <div className='mt-3'>
             <h3> Fetch data from API in react with axios</h3>
             <table className='table'>
-                <thead>
+               <thead>
                     <tr>
                         <th>ID</th>
                         <th> title</th>
